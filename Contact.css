@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+div#Contactio, footer {
+    margin: auto;
+    width: 1000px;
+    height: 1500px;
+    padding: 30px;
+    background-color: rgb(235, 235, 235);
+}
+
+body {
+    font-family: Arial;
+}
+
+nav {
+    background-color: darkgrey;
+    text-align: center;
+    padding: 12px;
+    width: 940px;
+}
+
+nav a {
+    margin-right: 90px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+footer {
+    font-weight: bold;
+    background-color: darkgrey;
+    height: 190px;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+}
