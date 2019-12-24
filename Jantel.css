@@ -7,7 +7,7 @@ div#Jantel2829, footer {
     width: 1000px;
     height: 1500px;
     padding: 30px;
-    background-color: rgb(235, 235, 235);
+    background-color: rgb(21, 138, 33);
 }
 
 body {
@@ -15,7 +15,7 @@ body {
 }
 
 nav {
-    background-color: darkgrey;
+    background-color: darkgray;
     text-align: center;
     padding: 12px;
     width: 940px;
